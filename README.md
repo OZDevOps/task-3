@@ -7,7 +7,7 @@ I have no enough memory to test Hadoop, so start them on AWS directly.
 
 ```
 export AWS_ACCESS_KEY="XXXX"
-export AWS_SECRET_KEY="XXXX+uN1AY"
+export AWS_SECRET_KEY="XXXXXXXXXXX"
 export AWS_KEYNAME="aws.key.pair"
 export AWS_KEYPATH='/Downloads/aws.key.pem'
 export AWS_DEFAULT_REGION="us-west-2"
