@@ -30,3 +30,5 @@ then
 ### check the instance status and start them with `vagrant up`
 
     vagrant status
+
+### wait for several minutes, you will see the instances are started up on AWS management console. 
